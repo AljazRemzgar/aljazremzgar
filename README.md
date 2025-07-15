@@ -1,63 +1,63 @@
-# 👋 Pozdravljeni! Jaz sem Aljaž Remžgar
+# 👋 Hi there! I'm Aljaž Remžgar
 
-🎓 Diplomirani matematik z veliko strastjo do **razvoja iger** in programiranja v okolju **Unity (C#)**.  
-🎮 Rad povezujem **logiko, dizajn in interaktivnost** v edinstvena digitalna doživetja.  
-📱 Objavljene mobilne igre na **App Store**  
-🧠 Ljubitelj tehnologije, kriptografije in umetne inteligence.
-
----
-
-## 🚀 Projekti
-
-### 🔹 [DELETE](https://apps.apple.com/si/app/deletelite/id6747510701) – strateška mobilna igra
-- 🌟 Samostojen razvoj od ideje do objave
-- 🧠 Navdih: šah in strateške odločitve
-- 👨‍💻 Tehnologije: Unity, C#, UX/UI dizajn
-- 📱 Objavljeno v App Store
-
-### 🔹 [KOMMA](https://apps.apple.com/si/app/komma/id6748255166) – socialna zabavna igra
-- 🤝 Spodbuja interakcijo in skupinske izzive
-- 🎨 Fokus na UI/UX, animaciji in igralski dinamiki
-- 👨‍💻 Tehnologije: Unity, C#, Event Management
-- 📱 Objavljeno v App Store
+🎓 Bachelor's degree in Applied Mathematics from the University of Ljubljana  
+🎮 Passionate Unity developer (C#) – I love turning ideas into interactive digital experiences  
+📱 Published mobile games on the **App Store**  
+🧠 Enthusiast of technology, AI (LLMs), and crypto research  
 
 ---
 
-## 💼 Izkušnje
+## 🚀 Featured Projects
 
-- 👨‍🏫 Inštruktor programiranja in matematike  
-- 👨‍💻 Praksa: Angular (HTML, TypeScript), Spring Boot (Java, REST), PostgreSQL  
-- 💡 Delo z API-ji, testiranjem (Swagger, JMeter), podatkovnimi bazami (PostGIS)
+### 🔹 [DELETE](https://apps.apple.com/si/app/deletelite/id6747510701) – Strategic Mobile Game
+- 🧠 Inspired by chess and deep tactical decision-making
+- 🎯 Developed from concept to launch as a solo developer
+- 💡 Focus on game balance, user engagement, and replayability
+- 🔧 Technologies: Unity, C#, UX/UI design
+- 📱 Available on App Store
 
----
-
-## 🧰 Tehnični sklad
-
-| Tehnologija | Znanje |
-|-------------|--------|
-| Unity in C#  | ⭐⭐⭐⭐⭐|
-| Python, Java, SQL | ⭐⭐⭐⭐ |
-| Angular, Spring Boot | ⭐⭐⭐ |
-| AI orodja (LLM) | ⭐⭐⭐ |
-| Matematika (logika, algoritmi) | ⭐⭐⭐⭐⭐ |
+### 🔹 [KOMMA](https://apps.apple.com/si/app/komma/id6748255166) – Social Party Game
+- 🗣️ Designed to promote interaction, laughter, and creative challenges
+- 🎨 Emphasis on UI/UX, animations, and real-time event handling
+- 🔧 Technologies: Unity (advanced), C#, dynamic logic systems
+- 📱 Available on App Store
 
 ---
 
-## 🧩 Kaj me poganja?
+## 💼 Work Experience
 
-🧠 Kombinacija **matematičnega razmišljanja** in **kreativne svobode**.  
-💡 Ustvarjam, ker verjamem v moč **idej, ki postanejo izkušnje**.  
-👥 Obožujem sodelovanje, a tudi uživam v samostojnem delu.  
-📈 Stremim k **učinkovitosti in inovaciji** – tudi z uporabo AI.
-
----
-
-## 📫 Kontakt
-
-- ✉️ aljaz.remzgar99@gmail.com  
-- 🔗 [LinkedIn (če obstaja)](https://...)  
-- 📍 Ljubljana, Slovenija
+- 👨‍🏫 Math & programming tutor  
+- 👨‍💻 Full-stack intern: Angular (HTML, TypeScript), Spring Boot (Java, REST APIs), PostgreSQL  
+- 🧪 Tools used: Swagger UI, Apache JMeter, PostGIS  
+- 🤝 Strong collaboration skills & independent problem-solving
 
 ---
 
-> “Ideja brez realizacije ostane le misel. Jaz gradim svetove, ki jih lahko doživiš.” – Aljaž
+## 🧰 Tech Stack
+
+| Technology          | Proficiency |
+|---------------------|-------------|
+| Unity and C#          | ⭐⭐⭐⭐ |
+| Python, Java, SQL   | ⭐⭐⭐⭐|
+| Angular, Spring Boot| ⭐⭐⭐|
+| AI tools (LLMs)     | ⭐⭐⭐|
+| Mathematical logic & algorithms | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 🎯 What drives me?
+
+I love blending **logic, creativity, and interactivity**.  
+As a mathematician and self-taught Unity developer, I enjoy solving complex problems while designing engaging user experiences.  
+Whether I'm developing games, exploring AI tools, or building software, I aim to create **meaningful, well-crafted solutions**.
+
+---
+
+## 📫 Contact
+
+- 📧 aljaz.remzgar99@gmail.com  
+- 🌍 Based in Ljubljana, Slovenia  
+
+---
+
+> “An idea without execution is just a thought. I build worlds you can experience.” – Aljaž Remžgar
