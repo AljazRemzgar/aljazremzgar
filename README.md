@@ -35,11 +35,11 @@
 
 | Tehnologija | Znanje |
 |-------------|--------|
-| Unity (C#)  | ⭐⭐⭐⭐ |
-| Python, Java, SQL | ⭐⭐⭐ |
+| Unity in C#  | ⭐⭐⭐⭐⭐|
+| Python, Java, SQL | ⭐⭐⭐⭐ |
 | Angular, Spring Boot | ⭐⭐⭐ |
-| AI orodja (LLM) | ⭐⭐ |
-| Matematika (logika, algoritmi) | ⭐⭐⭐⭐ |
+| AI orodja (LLM) | ⭐⭐⭐ |
+| Matematika (logika, algoritmi) | ⭐⭐⭐⭐⭐ |
 
 ---
 
